@@ -18,7 +18,7 @@ pyttsx3
 PyPDF2
  
 installing:
-
+`.bat`
 ```
 @echo off
 pip install tkinter
