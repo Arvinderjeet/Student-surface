@@ -41,7 +41,7 @@ Hardware Requirements</h4>
 >	100	 GB ROM or higher</blockquote>
 <hr>
 <h5>Software Requirements</h5>
-Laptop or pc 
+<h4>Laptop or pc<h4>
 <blockquote> >Window 7 or Higher</blockquote>
 <blockquote> >Python 3.5  or updated</blockquote>
 <blockquote> >Required python libraries installed</blockquote>
