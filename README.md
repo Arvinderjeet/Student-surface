@@ -48,4 +48,3 @@ Hardware Requirements</h4>
 <blockquote> >Required python libraries installed</blockquote>
 <blockquote> >Pip and updated</blockquote> 
 <hr>
- 
