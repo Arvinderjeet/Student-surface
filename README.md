@@ -9,15 +9,15 @@ Like Calculator, Writing/Drawing Board, PDF reader and PDF to text
 <legend><h3>System Description:</h3></legend>
 <h3>Libraries and Modules used:</h3>
 <p>
-OS
-time
-threading
-tkinter
-webbrowser
-pyttsx3
-PyPDF2
+*OS*
+*time*
+*threading*
+*tkinter*
+*webbrowser*
+*pyttsx3*
+*PyPDF2*
  
-installing:
+_installing:_
 `.bat`
 ```
 @echo off
