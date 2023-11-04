@@ -37,9 +37,9 @@ pip install threading
 System Requirements &
 Hardware Requirements</h4>
 <h4>Laptop or PC</h4>
->	I3 processor system or higher</blockquote>
->	2GB RAM or Higher</blockquote>
->	100	 GB ROM or higher</blockquote>
+-	I3 processor system or higher</blockquote>
+-	2GB RAM or Higher</blockquote>
+-	100	 GB ROM or higher</blockquote>
 <hr>
 <h5>Software Requirements</h5>
 <h4>Laptop or pc<h4>
