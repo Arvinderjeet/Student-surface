@@ -11,11 +11,11 @@ Like Calculator, Writing/Drawing Board, PDF reader and PDF to text
 
 - [x] OS
 - [x] time
-- [x] threading
+- [ ] threading
 - [x] tkinter
-- [x] webbrowser
-- [x] pyttsx3
-- [x] PyPDF2
+- [ ] webbrowser
+- [ ] pyttsx3
+- [ ] PyPDF2
  
 _installing:_
 `.bat`
